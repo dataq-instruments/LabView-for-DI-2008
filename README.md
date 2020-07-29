@@ -2,7 +2,7 @@
 
 This LabView example demonstrates how to acquire continuous waveforms from two Thermocouple (K type) channels of DI-2008, using DataqSDK ActiveX 
 
-See https://github.com/dataq-instruments/Labview for more discussion and other examples
+See https://github.com/dataq-instruments/Labview for more discussion, debug procedure and other examples
 
 To select Thermocouple channels via ADGainList and ADDiffList methods, please refer to dataqxc.chm under c:\windows\help 
 
